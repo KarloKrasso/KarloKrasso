@@ -1,0 +1,1 @@
+window.onload = console.log("Wingardium Leviosa!");
